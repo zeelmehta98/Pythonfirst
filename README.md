@@ -1,2 +1,2 @@
 # Pythonfirst
-print('Python is awesome!')
+This is my First Python Program.
