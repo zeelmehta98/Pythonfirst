@@ -1,2 +1,2 @@
 # Pythonfirst
-This was my first python program.
+print('Python is awesome!')
